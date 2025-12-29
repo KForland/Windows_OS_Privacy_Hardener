@@ -1,0 +1,8 @@
+# This project uses only Python standard library modules:
+# ctypes
+# subprocess
+# sys
+# glob
+#
+# No third-party dependencies required
+python>=3.9
